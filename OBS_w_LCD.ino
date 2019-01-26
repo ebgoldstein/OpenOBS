@@ -2,7 +2,7 @@
 
 #include <Wire.h>
 #include "RTClib.h"
-#include <Adafruit_MCP23017.h>
+//#include <Adafruit_MCP23017.h>
 #include <Adafruit_RGBLCDShield.h>
 
 Adafruit_RGBLCDShield lcd = Adafruit_RGBLCDShield();
